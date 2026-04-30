@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { candidates as initialCandidates, jobDescription as initialJobDesc } from './data';
+import { jobDescription as initialJobDesc } from './data';
 import type { Candidate } from './data';
 import {
   Users, Target, TrendingUp, ShieldCheck, Search, Filter,
